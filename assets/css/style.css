@@ -1,0 +1,48 @@
+header {
+    height: 150px;
+    width: 100%;
+    border-bottom: 10px solid rgb(0, 0, 0);
+    background-color: #727272;
+  }
+
+html{
+    scroll-behavior: smooth;
+  }
+
+#about {
+  height: 400px;
+  background-color:rgb(185, 185, 185)
+}
+  
+#work {
+  height: 500px;
+  background-color:rgb(185, 185, 185);
+}
+  
+#resume {
+  height: 300px;
+  background-color:rgb(185, 185, 185);
+}
+  
+#contact {
+  height: 100px;
+  background-color:rgb(185, 185, 185);
+}
+  
+.flex {
+  display: flex;
+}
+
+#first-img {
+  height: 300px;
+  width: 300px;
+}
+
+.apps {
+  margin: 50px;
+}
+
+p {
+  font-size: large;
+  text-align: center;
+}
